@@ -1,4 +1,4 @@
-typography_spectrum: 0.3167020713444799
+typography_spectrum: 0.18009850452654064
 color:
   brandStrength: 0.05348565895110369
   lightness: 0.36859532934613526
@@ -10,7 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.07849578629247844
+layout_spectrum: 0.5179196486715227
 name: 4n6photo
 title: forensicPhoto
 description: painting with light
