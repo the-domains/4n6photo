@@ -19,5 +19,8 @@ navigation:
   - name: Cat
     id: 83a3667b-e68f-48b3-a939-803ed22d130c
     type: content
+  - name: Atlanta
+    id: 797da374-86ef-48ee-977b-4d7201ed27f5
+    type: content
 title: forensicPhoto
 description: painting with light
