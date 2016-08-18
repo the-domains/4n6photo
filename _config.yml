@@ -16,5 +16,8 @@ navigation:
   - name: Bridge
     id: 7d21f5b1-0d48-4fe3-88a2-f36eebdfccac
     type: content
+  - name: Cat
+    id: 83a3667b-e68f-48b3-a939-803ed22d130c
+    type: content
 title: forensicPhoto
 description: painting with light
