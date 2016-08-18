@@ -7,18 +7,17 @@ description: >-
   bring her son and his girlfriend down for photographs also. The more the
   merrier. This was a fantastic session. I got some really striking ones of her
   son Stevie. Move over James Dean. 
-dateModified: '2016-08-18T05:31:58.618Z'
-datePublished: '2016-08-18T05:32:24.060Z'
+dateModified: '2016-08-18T08:07:37.184Z'
+datePublished: '2016-08-18T08:07:37.725Z'
 title: Atlanta Mod Session
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-atlanta-mod-session.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: atlanta-mod-session/index.html
+_type: Blurb
 
 ---
 # Atlanta Mod Session
