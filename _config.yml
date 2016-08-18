@@ -1,0 +1,14 @@
+layout_spectrum: 0.07849578629247844
+typography_spectrum: 0.3167020713444799
+color:
+  brandStrength: 0.05348565895110369
+  lightness: 0.36859532934613526
+  saturation: 0.7160127812530845
+  rhythmicContrast: 0.6430285265669227
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 4n6photo
