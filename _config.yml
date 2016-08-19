@@ -25,5 +25,8 @@ navigation:
   - name: Products
     id: f55ffcbe-4cf3-4283-8997-5505318e28a3
     type: content
+  - name: Mod 60s
+    id: 391ff19b-557b-46c6-b3ab-1689ed248934
+    type: content
 title: forensicPhoto
 description: painting with light
