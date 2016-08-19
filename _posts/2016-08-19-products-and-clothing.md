@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-08-19T03:23:37.219Z'
-datePublished: '2016-08-19T03:23:38.077Z'
-title: Products and Clothing
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-19T07:11:41.584Z'
 sourcePath: _posts/2016-08-19-products-and-clothing.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-19T07:11:40.767Z'
+title: Products and Clothing
+publisher: {}
+description: ''
 starred: false
 url: products-and-clothing/index.html
 _type: Blurb
@@ -23,3 +23,6 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5644147-e2d5-4848-838b-5510e2ffb121.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1f33aa9-0717-4575-8c41-a070b8e9822d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caf9295e-d101-4720-95e2-c3de67cbc552.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ca7267-60ce-403b-9674-602613e59932.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b66dd6e-1475-440d-b9f3-d99fb79363bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2da736e-16b4-4e7f-b94b-37a64ba62a7c.jpg)
