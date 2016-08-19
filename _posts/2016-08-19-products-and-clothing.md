@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-19T03:20:52.104Z'
-datePublished: '2016-08-19T03:21:17.762Z'
+dateModified: '2016-08-19T03:23:37.219Z'
+datePublished: '2016-08-19T03:23:38.077Z'
 title: Products and Clothing
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-products-and-clothing.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: products-and-clothing/index.html
+_type: Blurb
 
 ---
 # Products and Clothing
