@@ -1,18 +1,18 @@
 ---
+datePublished: '2016-08-23T17:04:59.460Z'
+sourcePath: _posts/2016-08-18-red-white-and-bruiser.md
+author:
+  - name: forensicDesign
+via: {}
+dateModified: '2016-08-23T17:04:58.935Z'
+title: 'Red, White & Bruiser'
+publisher: {}
 description: >-
   This was a really fun shoot. I brought out the fog machine - instant
   atmosphere. The samurai sword is a high frequency vibration sword that can cut
   through adamantium because it vibrates rapidly enough to split atoms.
   Presenting Rachel…
-dateModified: '2016-08-18T05:25:29.338Z'
-datePublished: '2016-08-18T05:25:42.844Z'
-title: 'Red, White & Bruiser'
-author:
-  - name: forensicDesign
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-18-red-white-and-bruiser.md
 inFeed: true
 hasPage: false
 inNav: false
