@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T07:11:41.584Z'
+datePublished: '2016-08-23T17:02:15.977Z'
 sourcePath: _posts/2016-08-19-products-and-clothing.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T07:11:40.767Z'
+dateModified: '2016-08-23T17:02:15.525Z'
 title: Products and Clothing
 publisher: {}
 description: ''
