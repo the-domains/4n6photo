@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-23T17:02:46.729Z'
+sourcePath: _posts/2016-08-18-ballon-dream.md
+author: []
+via: {}
+dateModified: '2016-08-23T17:02:46.243Z'
+title: Ballon Dream
+publisher: {}
 description: >-
   Another great session with Sarah. We used balloons with led lights. You can
   still add helium to the balloons. This created a unique look for the
   photography.
-dateModified: '2016-08-18T08:06:04.381Z'
-datePublished: '2016-08-18T08:06:23.731Z'
-title: Ballon Dream
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-18-ballon-dream.md
 inFeed: true
 hasPage: false
 inNav: false
