@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-23T17:04:21.428Z'
+sourcePath: _posts/2016-08-18-atlanta-mod-session.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T17:04:20.311Z'
+title: Atlanta Mod Session
+publisher: {}
 description: >-
   Serendipity. I was in Atlanta for a high school reunion. I was visiting a
   class mate in an Air BnB. The condo owner happened to be a model. I mentioned
@@ -6,15 +14,7 @@ description: >-
   photographs of her. She said that that was a great idea and that she wanted to
   bring her son and his girlfriend down for photographs also. The more the
   merrier. This was a fantastic session. I got some really striking ones of her
-  son Stevie. Move over James Dean. 
-dateModified: '2016-08-18T08:07:37.184Z'
-datePublished: '2016-08-18T08:07:37.725Z'
-title: Atlanta Mod Session
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-18-atlanta-mod-session.md
-hasPage: true
+  son Stevie. Move over James Dean.
 starred: false
 url: atlanta-mod-session/index.html
 _type: Blurb
@@ -22,7 +22,8 @@ _type: Blurb
 ---
 # Atlanta Mod Session
 
-Serendipity. I was in Atlanta for a high school reunion. I was visiting a class mate in an Air BnB. The condo owner happened to be a model. I mentioned that I brought my camera gear and lights and offered to take some amazing photographs of her. She said that that was a great idea and that she wanted to bring her son and his girlfriend down for photographs also. The more the merrier. This was a fantastic session. I got some really striking ones of her son Stevie. Move over James Dean. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af8b364-0a7e-4f4a-9932-0020aafc4309.jpg)
+Serendipity. I was in Atlanta for a high school reunion. I was visiting a class mate in an Air BnB. The condo owner happened to be a model. I mentioned that I brought my camera gear and lights and offered to take some amazing photographs of her. She said that that was a great idea and that she wanted to bring her son and his girlfriend down for photographs also. The more the merrier. This was a fantastic session. I got some really striking ones of her son Stevie. Move over James Dean.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af8b364-0a7e-4f4a-9932-0020aafc4309.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32ab9e0-4cb2-46f5-875f-2cdc773c0beb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdc34e3a-86cc-4017-ba6c-24d2798459fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f16238-6b86-46a6-bef9-f1606dbce8c1.jpg)
