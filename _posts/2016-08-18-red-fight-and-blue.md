@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-23T17:03:30.749Z'
+sourcePath: _posts/2016-08-18-red-fight-and-blue.md
+author:
+  - name: forensicDesign
+via: {}
+dateModified: '2016-08-23T17:03:30.096Z'
+title: 'Red, Fight & Blue'
+publisher: {}
 description: >-
   Red and blue gels for an edgy photo session. This session was with the
   talented Sarah. Karate is paying off for her.
-dateModified: '2016-08-18T06:52:01.256Z'
-datePublished: '2016-08-18T06:52:13.260Z'
-title: 'Red, Fight & Blue'
-author:
-  - name: forensicDesign
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-18-red-fight-and-blue.md
 inFeed: true
 hasPage: false
 inNav: false
