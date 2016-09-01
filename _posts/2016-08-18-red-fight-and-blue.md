@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-23T17:11:43.975Z'
+datePublished: '2016-08-30T04:31:55.660Z'
 sourcePath: _posts/2016-08-18-red-fight-and-blue.md
 author:
   - name: forensicDesign
 via: {}
-dateModified: '2016-08-23T17:11:43.257Z'
+dateModified: '2016-08-30T04:31:54.982Z'
 title: 'Red, Fight & Blue'
 publisher: {}
 description: >-
@@ -20,6 +20,8 @@ _type: MediaObject
 # Red, Fight & Blue
 
 Red and blue gels for an edgy photo session. This session was with the talented Sarah. Karate is paying off for her.
+
+Larger images: https://500px.com/4n6design/galleries/red-fight-and-blue.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aac379c-f2da-477a-9eaf-1caf721c7431.jpg)
 ![Mercury Camera](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dddbd54-8d7e-4264-8bd8-9966ccda8f4a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e84eda76-9436-4428-b466-92f419d71d5d.jpg)
